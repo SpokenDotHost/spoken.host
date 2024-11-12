@@ -16,7 +16,7 @@ For small projects or quick prototypes, this complexity feels like overkill. You
 ## The Solution: What Is spoken.host?
 spoken.host is a **developer-friendly SaaS** that provides instant, reliable access tokens for Spotify’s API. Here’s how it works (simplified):
 1. **Sign Up**: Create an account on spoken.host.  
-2. **Subscribe to a Plan**: Choose a plan that suits your usage needs (with a free tier to get you started).  
+2. **Subscribe to a Plan**: Choose a plan that suits your usage needs.
 3. **Authenticate**: Enter your Spotify credentials (client ID, secret, etc.).  
 4. **Access Tokens on Demand**: Get tokens directly through our UI or via authenticated HTTP requests, rate-limited to up to 60 tokens/hour with 1 token/second.
 
