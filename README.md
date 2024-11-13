@@ -6,7 +6,9 @@ Are you tired of jumping through hoops to generate Spotify API tokens? Let’s f
 Enter **[spoken.host](https://spoken.host)**: the SaaS solution that simplifies Spotify API authentication so you can focus on building, not debugging. Whether you’re a hobbyist developer or managing a team, we’ve got your back with easy, efficient, and rate-limited access to Spotify tokens.
 
 ## The Problem: Why Spotify’s API Can Feel Like a Maze
-Spotify’s API is powerful but comes with a significant hurdle: **authorization flow**. Here’s what developers typically face:
+Spotify’s API is powerful but comes with a significant hurdle: **authorization flow**. Here’s what developers typically face:  
+
+<img src="https://developer.spotify.com/images/documentation/web-api/auth-code-flow.png"></img>
 - **Confusing OAuth setup**: Figuring out client IDs, client secrets, and redirect URIs.
 - **Token expiration headaches**: Access tokens expire in an hour, so you’re constantly refreshing them.
 - **Manual workflow interruptions**: Nobody has time for repeated API calls just to test features.
