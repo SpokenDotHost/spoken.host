@@ -8,7 +8,8 @@ Enter **[spoken.host](https://spoken.host)**: the SaaS solution that simplifies 
 ## The Problem: Why Spotify’s API Can Feel Like a Maze
 Spotify’s API is powerful but comes with a significant hurdle: **authorization flow**. Here’s what developers typically face:  
 
-<img src="https://developer.spotify.com/images/documentation/web-api/auth-code-flow.png"></img>
+![authcodeflow](https://github.com/user-attachments/assets/07f0d1cd-2d6b-4f04-a509-8cf90531ec4a)
+
 - **Confusing OAuth setup**: Figuring out client IDs, client secrets, and redirect URIs.
 - **Token expiration headaches**: Access tokens expire in an hour, so you’re constantly refreshing them.
 - **Manual workflow interruptions**: Nobody has time for repeated API calls just to test features.
